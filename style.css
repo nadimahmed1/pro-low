@@ -1,0 +1,37 @@
+
+h1{
+    color: orangered;
+    font-size: 50px;
+
+}
+span{
+    color: rebeccapurple;
+}
+p{
+    text-align: left;
+}
+.half-width{
+    display: flex;
+    padding-left: 5%;
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+    text-align: justify;
+    padding-right: 10%;
+}
+
+.img{
+   border: darkgray solid;
+   box-shadow: rgb(117, 113, 117) 10px 10px 10px 10px;
+  
+
+
+}
+.hire-me{
+    background-color: lightseagreen;
+    font-size: 20px;
+    font-weight: 900;
+    bottom: 10%;
+    padding: 10px 40px;
+    border-radius: 10px;
+    text-decoration: none;
+}
